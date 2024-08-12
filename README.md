@@ -1,2 +1,1 @@
-# testing-infra
-infra created from terraform
+# this repository is for infra developers
